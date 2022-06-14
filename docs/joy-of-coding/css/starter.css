@@ -35,3 +35,11 @@ div.conversation {
 .send {
     float: right;
 }
+
+.municipal {
+    color: red;
+}
+
+.originator {
+    color: green;
+}
