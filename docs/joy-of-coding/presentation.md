@@ -35,6 +35,15 @@ background-size: contain
 ## Golden Delicious & Ingrid Marie
 
 ---
+background-image: url(image/dancing.jpg)
+background-position: center
+background-size: contain
+
+???
+## I love dancing
+## Babs is a ballet teacher
+
+---
 ## &#127846;
 
 ???
@@ -93,4 +102,146 @@ template: fountain-overview
     <div class="send">&#8264;</div>
     <div class="send">I don't know, let's ask!<div>
 </div>
+
+---
+## &#9962;
+
+---
+## &#129440;
+
+---
+## &#128682;
+
+---
+## &#128231;
+
+---
+
+## &#128231; &#10060;
+
+---
+## &#128231; &#128257;
+
+---
+## 21eml05381
+
+---
+## &#128336;
+
+---
+## &#128337;
+
+---
+## &#128338;
+
+---
+## &#128339;
+
+---
+## &#128340;
+
+---
+## &#128341;
+
+---
+## &#128342;
+
+---
+## &#128343;
+
+---
+## &#128344;
+
+---
+## &#128345;
+
+---
+## &#128346;
+
+---
+## &#128347;
+
+---
+background-image: url(image/fountain-expose.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/align-01.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/decoy-01.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/align-02.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/decoy-02a.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/decoy-02b.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/align-03.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/decoy-03a.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/decoy-03b.jpg)
+background-position: center
+background-size: contain
+
+---
+## &#128231; &#128544;
+
+---
+## &#128242;
+
+---
+background-image: url(image/fountain-expose.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/grating-a.jpg)
+background-position: center
+background-size: contain
+
+---
+background-image: url(image/grating-b.jpg)
+background-position: center
+background-size: contain
+
+---
+## We Arnhem
+
+---
+background-image: url(image/brigitte-faber.jpg)
+background-position: center
+background-size: contain
+
+---
+## [Excursion](https://www.facebook.com/gemeente.overbetuwe/posts/pfbid0uHcsoHjqfCRhK9EhMJ8QofVj7xL6z5nq8s48e9Boo8A4fsZf9E3hXwcksLUivCpxl)
+
+---
+background-image: url(image/real-deal.jpg)
+background-position: center
+background-size: contain
+
+
 
